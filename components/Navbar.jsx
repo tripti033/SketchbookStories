@@ -16,11 +16,9 @@ const Navbar = () => (
     <div
       className={`${styles.innerWidth} mx-auto flex justify-center gap-8`}
     >
-      
-      <h2 className="font-extrabold text-[24px] leading-[30.24px] text-white" >
+      <h2 className="font-extrabold text-[24px] leading-[30.24px] text-white">
         @Notebook._23
       </h2>
-     
     </div>
   </motion.nav>
 );

@@ -13,6 +13,5 @@ export {
   StartSteps,
   NewFeatures,
   ExploreCard,
-  
   Footer,
 };

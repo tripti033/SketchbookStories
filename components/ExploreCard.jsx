@@ -2,10 +2,9 @@
 
 import { motion } from 'framer-motion';
 
-import styles from '../styles';
 import { fadeIn } from '../utils/motion';
 
-const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
+const ExploreCard = ({ id, imgUrl, index, active, handleClick }) => (
   <motion.div
     variants={fadeIn('right', 'spring', index * 0.5, 0.75)}
     className={`relative ${
@@ -18,8 +17,6 @@ const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
       alt="planet-04"
       className="absolute w-full h-full object-cover rounded-[24px]"
     />
-   
   </motion.div>
 );
-
 export default ExploreCard;
