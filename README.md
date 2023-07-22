@@ -1,7 +1,11 @@
 # My Drawing Showcase Website
 
-![Website Preview](![image](https://github.com/tripti033/SketchbookStories/assets/107789391/ec61b44a-6749-4f13-89ad-a21ead28d561)
-)
+
+![Screenshot 2023-07-22 at 23-43-45 Notebook](https://github.com/tripti033/SketchbookStories/assets/107789391/18638d2c-081c-43fe-a5a8-edc50a592bd1)
+
+![Screenshot 2023-07-22 at 23-44-22 Notebook](https://github.com/tripti033/SketchbookStories/assets/107789391/d5050ac7-d3c2-4009-9187-eff15c0d4a3b)
+
+![Screenshot 2023-07-22 at 23-44-56 Notebook](https://github.com/tripti033/SketchbookStories/assets/107789391/c40b7dde-d800-4397-98d4-201f326bd775)
 
 ## Description
 
