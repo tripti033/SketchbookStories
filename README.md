@@ -48,7 +48,7 @@ This project is licensed under the [MIT License](link-to-your-license-file).
 
 You can reach out to me on the following platforms:
 
-- Email: tripti033bteceai21@igdtuw.ac.in <tripti033bteceai21@igdtuw.ac.in>;
+- Email: tripti033bteceai21@igdtuw.ac.in
 - Instagram: [@notebook._23](https://www.instagram.com/notebook._23/)
 - LinkedIn: [Tripti Verma](https://www.linkedin.com/in/tripti-verma-68050122b)
 
