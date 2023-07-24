@@ -1,4 +1,4 @@
-# My Drawing Showcase Website
+# My Personal art Showcase Website (Best for big screens)
 
 
 ![Screenshot 2023-07-22 at 23-43-45 Notebook](https://github.com/tripti033/SketchbookStories/assets/107789391/18638d2c-081c-43fe-a5a8-edc50a592bd1)
@@ -16,6 +16,10 @@ Welcome to my drawing showcase website! This project was created using Next.js a
 - Gallery: Browse through a collection of my artworks and sketches.
 - Feedback: Get feedback from users and art enthusiasts about my creations.
 - Social Media: Connect with me on various social media platforms and stay updated on my latest works.
+
+## Website Compatibility
+
+🖥️ This website is designed and optimized for larger screens, such as laptops and desktop computers. For the best user experience, we recommend viewing it on devices with larger displays.
 
 ## Demo
 
