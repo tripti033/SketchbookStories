@@ -23,7 +23,7 @@ Welcome to my drawing showcase website! This project was created using Next.js a
 
 ## Demo
 
-You can check out the live demo of the website [here](https://sketchbookstories.on.fleek.co/).
+You can check out the live demo of the website [here](https://sketchbookstories.netlify.app/).
 
 ## Technologies Used
 
