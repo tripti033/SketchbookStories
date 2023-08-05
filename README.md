@@ -6,7 +6,8 @@
 ![Screenshot 2023-07-22 at 23-44-22 Notebook](https://github.com/tripti033/SketchbookStories/assets/107789391/d5050ac7-d3c2-4009-9187-eff15c0d4a3b)
 
 ![Screenshot 2023-07-22 at 23-44-56 Notebook](https://github.com/tripti033/SketchbookStories/assets/107789391/c40b7dde-d800-4397-98d4-201f326bd775)
-
+  
+   [Video]([https://sketchbookstories.netlify.app/](https://www.dropbox.com/scl/fi/kketdb7oy27kb98iul8bs/notebook-online-video-cutter.com.mp4?rlkey=qm8cwjke8w9qxex7jat1uvrhb&dl=0)).
 ## Description
 
 Welcome to my drawing showcase website! This project was created using Next.js and showcases my artwork and sketches. I am passionate about art and love to experiment with different styles and mediums. This website serves as a portfolio to display my creations and share them with the world.
