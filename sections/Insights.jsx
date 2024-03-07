@@ -26,7 +26,7 @@ const Feedback = () => (
       >
        <div className="mt-5"> {/* Added padding to create distance */}
        
-          <TitleText title={<>Stop and Follow Me on Insta!</>} />
+          <TitleText title={<>Follow Me on Insta!</>} />
         </div>
        
         
