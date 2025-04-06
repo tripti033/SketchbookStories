@@ -18,16 +18,19 @@ const About = () => (
     >
       <TypingText title="| About Me" textStyles="text-center" />
 
-      <motion.p
+  <motion.p
   variants={fadeIn('up', 'tween', 0.2, 1)}
   className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
 >
-  <span className="font-extrabold text-white">WARNING: </span> Entering Sketchbook Stories may lead to existential questions about your own artistic skills.
+  <span className="font-extrabold text-white">WARNING: </span> Entering Sketchbook Stories may cause an unexpected desire to code less and create more.
   <br/><br/>
-  Hey!, I'm a B.Tech student by day, and a slightly sleep-deprived artist by the night (or whenever those pesky engineering deadlines allow). Here, you'll find a chaotic mix of doodles, sketches, and digital art that's basically my brain on caffeine and way too much inspiration.
+  Hi! I'm a B.Tech student specializing in AI and a digital artist who somehow finds time between debugging and deadlines to draw. Sketchbook Stories is my creative outlet—a blend of doodles, digital experiments, and visual thoughts that escape while my IDE updates.
   <br/><br/>
-  So, join me on this wild ride of self-expression, where I attempt to turn my imagination into something other than a never-ending loop of cat videos. Who knows, maybe my art will actually speak to your heart (or at least make you snort out your coffee). Welcome to <span className="font-extrabold text-white">Sketchbook Stories</span>, where anything goes and the only limit is how many pens I can lose in a single sitting.
+  Think of it as a sketch-dump with a soul: part caffeine, part chaos, and a whole lot of color. Sometimes it's expressive, sometimes experimental—and occasionally, it's just what my brain needed after writing one too many backend APIs.
+  <br/><br/>
+  Welcome to <span className="font-extrabold text-white">Sketchbook Stories</span>, where art meets algorithms, and inspiration doesn’t wait for the weekend.
 </motion.p>
+
 
 
       <motion.img
